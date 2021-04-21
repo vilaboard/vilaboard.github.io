@@ -25,6 +25,7 @@
     <meta property="twitter:description" content="Draw, write, move, scale your ideias on VilaBoard.
     Perfect to teaching, YouTube and presentations">
     <meta property="twitter:image" content="https://www.vilaboard.com/imgs/screenshot.png">
+    <script src="fabric.min.js"></script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4FJBVX9893"></script>
     <script>
@@ -33,12 +34,21 @@
       gtag('js', new Date());
       gtag('config', 'G-4FJBVX9893');
     </script>
-
+  <style>
     body {
       font-family: Helvetica, Arial, "Droid Sans",Sans-Serif;
       background-size: cover;
       overflow: hidden;
       background-color: white;
+    }
+    .vilaboard {
+      font-size: 18px;
+      font-weight: bold;
+      color: #807e7cbd;
+      float: right;
+      display: table-header-group;
+      position: absolute;
+      right: 18px;
     }
 
     #teach {
@@ -241,6 +251,7 @@
         </div>
       </div> 
     </span>
+    <span class="vilaboard">www.vilaboard.com</span>
   </div>
   <canvas id="c" ></canvas>
 </div>
