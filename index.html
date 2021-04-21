@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Primary Meta Tags -->
+    <title>VilaBoard</title>
+    <meta name="title" content="VilaBoard">
+    <meta name="description" content="Draw, write, move, scale your ideias on VilaBoard.
+    Perfect to teaching, YouTube and presentations">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fabiovila.github.io/vilaboard/">
+    <meta property="og:title" content="VilaBoard">
+    <meta property="og:description" content="Draw, write, move, scale your ideias on VilaBoard.
+    Perfect to teaching, YouTube and presentations.">
+    <meta property="og:image" content="https://fabiovila.github.io/vilaboard/imgs/screenshot.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://fabiovila.github.io/vilaboard/">
+    <meta property="twitter:title" content="VilaBoard">
+    <meta property="twitter:description" content="Draw, write, move, scale your ideias on VilaBoard.
+    Perfect to teaching, YouTube and presentations">
+    <meta property="twitter:image" content="https://fabiovila.github.io/vilaboard/imgs/screenshot.png">
+
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-YVXGQ0BW2Z"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-YVXGQ0BW2Z');
+      </script>
+      <script src="fabric.min.js"></script>
+      <style>
+
+    body {
+      font-family: Helvetica, Arial, "Droid Sans",Sans-Serif;
+      background-size: cover;
+      overflow: hidden;
+      background-color: white;
+    }
+
+    #teach {
+      width: 100%;
+      height: 100%;
+      border: 1px solid #cccccc33;
+    }
+    #toolbar {
+      line-height: 24px;
+      border: 1px solid #cccccc33;
+      min-height: 24px;
+      padding: 5px;
+      display: flex;
+      opacity : 0.2; 
+      transition: opacity 1s;    
+      transition-delay: 1s;
+    }
+    
+    #toolbar:hover {
+      opacity: 1.0;
+      transition-delay: 0s;
+    }
+       
+    .btng {
+    font-weight: bolder;
+    font-size: large;
+    padding: 2px;
+    display: inline-flex;
+    }
+    
+    .btng input {
+      width: 10rem;
+      border-style: none;
+      border: 1px solid #eee;
+      height: 2rem;
+      padding: 0 5px 0 5px;
+      border-radius: 15px;
+    }
+    .btng input:active {
+      border-radius: 5px;
+      border: 1px solid rgb(143, 206, 235);
+    }
+    .btng input:focus {
+      border-radius: 5px;
+      border: 1px solid rgb(143, 206, 235);
+    }
+    
+    .btng a {
+      display: flex;
+      margin: 2px;
+      border-radius: 100px;
+      width: 28px;
+      height: 28px;
+      background-color: #eee;
+      box-shadow: 2px 2px 2px #cccccc55;
+      text-align: center;
+    }
+    .btng a:hover {   transform: scale(1.1); }
+    .btng a:active {  transform: scale(0.8); }
+    .btng svg {
+      width: 100%;
+      height: 50%;
+      margin: auto;
+    }
+    
+    .color {
+      border-style: none;
+    
+    }
+    .btng #color1 {  background-color:#c0ff2e ; }
+    .btng #color2 {  background-color:#FF2E62 ; }
+    .btng #color3 {  background-color:#FFCB2E ; }
+    .btng #color4 {  background-color:#2E62FF ; }
+    .btng #white  {  background-color:#FFFFFF ; }
+    .btng #black  {  background-color:black   ; }
+    
+    
+    .dropbtn {
+      background-color: #eee;
+      padding: 6px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      border-radius: 15px;
+    }
+    
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .dropdown-content {
+      display: block;
+      position: absolute;
+      background-color: #f9f9f9;
+      box-shadow: 0px 8px 6px 0px rgba(0,0,0,0.2);
+      z-index: 9999;
+      max-height: 0px;
+      overflow: hidden;
+      transition: max-height 0.2s; 
+      transition-delay: 0.2s;
+      margin-top: -5px;
+    }
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+    }
+    
+    .dropdown-content a:hover {background-color: #f1f1f1}
+    
+    .dropdown:hover .dropdown-content {
+      display: block;
+      opacity: 1.0;
+      max-height: 300px;
+    }
+    
+    #m1 img {
+      max-width: 100px;
+    }
+    
+    </style>
+  </head>
+  <body>
+<div id="teach">
+  <div id="toolbar">
+    <span class="btng"> 
+      <a href="#" id="new">
+        <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331" >
+        <g transform="translate(-1.9573 -1.7103)">
+        <rect x="2.3216" y="2.3296" width="1.9041" height="2.9668" rx=".35845" ry=".46318" fill="#ffffff" stop-color="#000000" stroke="#000" stroke-dashoffset="33.335" stroke-linejoin="bevel" stroke-width=".29792" style="paint-order:markers stroke fill"/>
+        </g>
+        </svg>        
+      </a>
+    </span>
+    <span class="btng">    
+      <input id="addtext" type="text"/>
+      <a id="addtextbt" class="btn">
+        <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
+        <g transform="translate(-1.9573 -1.7103)">
+        <rect transform="rotate(90)" x="3.5276" y="-4.4034" width=".54252" height="2.2597" rx=".18621" ry=".26451" stop-color="#000000" style="paint-order:markers stroke fill"/>
+        <rect transform="scale(-1)" x="-3.5554" y="-4.9448" width=".54252" height="2.2597" rx=".18621" ry=".26451" stop-color="#000000" style="paint-order:markers stroke fill"/>
+        </g>
+        </svg>
+      </a>
+    </span>
+    <span class="btng"> 
+      <a href="#" id="select">
+        <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
+        <g transform="translate(-1.9573 -1.7103)">
+        <g transform="matrix(.010602 0 0 .011747 1.3698 1.7103)">
+        <path d="m301.12 173.31-182.13-170.04c-3.242-3.038-7.891-4.049-12.105-2.639-4.211 1.404-7.317 5.006-8.086 9.389l-43.202 245.39c-0.854 4.847 1.306 9.717 5.464 12.341 4.152 2.625 9.49 2.465 13.491-0.378l59.968-42.699 47.219 127.45c2.127 6.336 8.984 9.765 15.332 7.648l62.087-20.771c6.342-2.116 9.771-8.984 7.648-15.327l-47.228-127.43 73.596-1.975c4.905-0.13 9.262-3.215 11.006-7.802 1.744-4.609 0.532-9.805-3.062-13.153zm-98.532-0.851c-3.842 0.109-7.4 2.004-9.599 5.163-2.205 3.147-2.778 7.146-1.561 10.781l48.557 131.47-39.111 13.075-48.56-131.46c-1.224-3.647-4.093-6.502-7.743-7.679-3.656-1.188-7.643-0.585-10.772 1.649l-49.216 35.027 34.206-194.28 144.19 134.64z"/>
+        </g>
+        </g>
+        </svg>
+      </a>
+      <a href="#" id='draw'>
+        <svg version="1.1" viewBox="0 0 10 16" >
+        <g transform="matrix(.011538 0 0 .018363 -.35216 -1.8781)" stroke-dashoffset="33.335" stroke-linejoin="bevel">
+        <path transform="matrix(.70598 -.70823 .70598 .70823 0 0)" d="m-241.36 575.5 563.36-19.83c102.11-3.594 172.41 49.002 172.41 151.18 0 102.18-74.494 146.53-176.67 144.87l-547.27-8.9313c-102.17-1.6674-189.87-33.753-189.87-135.93 0-102.18 75.93-127.76 178.04-131.35z" stop-color="#000000" stroke-width="20.474" style="paint-order:markers stroke fill"/>
+        <path d="m139.57 728.3c35.877 91.535 59.954 110.45 145.61 130.41-53.353 53.353-185.34 153-238.69 99.652-53.353-53.353 39.728-176.71 93.08-230.06z" stop-color="#000000" stroke-width="15.118" style="paint-order:markers stroke fill"/>
+        <rect transform="matrix(1 0 -.94327 .33204 0 0)" x="2803.6" y="2810.6" width="778.27" height="118" ry="59.001" stop-color="#000000" stroke-width="26.236" style="paint-order:markers stroke fill"/>
+        </g>
+        </svg>
+      </a>
+      <a href="#" id="del">
+        <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
+        <g transform="translate(-1.9573 -1.7103)">
+        <g transform="matrix(1 0 0 .78337 .037895 .78558)" stroke-dashoffset="33.335" stroke-linejoin="bevel" stroke-width="2.4966">
+        <rect transform="rotate(-30)" x=".49094" y="3.1173" width=".82885" height="3.8402" ry=".41442" stop-color="#000000" style="paint-order:markers stroke fill"/>
+        <rect transform="rotate(30)" x="4.3317" y="-.18596" width=".82885" height="3.8402" ry=".41442" stop-color="#000000" style="paint-order:markers stroke fill"/>
+        </g>
+        </g>
+        </svg>        
+      </a>
+    </span>
+    <span class="btng">
+      <a href="#" id="white" class="color" value="#FFFFFF"></a>
+      <a href="#" id="black" class="color" value="#000000"></a>
+      <a href="#" id="color1" class="color" value="#c0ff2e"></a>
+      <a href="#" id="color2" class="color" value="#FF2E62"></a>
+      <a href="#" id="color3" class="color" value="#FFCB2E"></a>
+      <a href="#" id="color4" class="color" value="#2E62FF"></a>
+    </span>
+    <span class="btng">
+      <a href="#" id="stroke1" class="stroke" value="1"><svg height="20px" width="20px"><circle cx="14" cy="7" r="2px" fill="#000000" /></svg></a>
+      <a href="#" id="stroke2" class="stroke" value="2"><svg height="20px" width="20px"><circle cx="14" cy="7" r="3px" fill="#000000" /></svg></a>
+      <a href="#" id="stroke3" class="stroke" value="5"><svg height="20px" width="20px"><circle cx="14" cy="7" r="5px" fill="#000000" /></svg></a>
+      <a href="#" id="stroke4" class="stroke" value="10"><svg height="28px" width="28px"><circle cx="14" cy="7" r="7px" fill="#000000" /></svg></a>
+    </span>
+    <span class="">
+      <div class="dropdown">
+        <a onclick="mo('m1')" class="dropbtn"><strong>Theme</strong></a>
+        <div id="m1" class="dropdown-content">
+          <a  href="#"><img id="t1" src="imgs/black-1072366_1920.jpg"></a>
+          <a  href="#"><img id="t2" src="imgs/flowers-3956074_1920.jpg"></a>
+          <a  href="#"><img id="t3" src="imgs/rect1867.png"></a>
+        </div>
+      </div> 
+    </span>
+  </div>
+  <canvas id="c" ></canvas>
+</div>
+<script src="vilaboard.min.js"></script>
+  </body>
+</html>
