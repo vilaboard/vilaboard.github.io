@@ -1,29 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary Meta Tags -->
-    <title>VilaBoard</title>
+    <title>VilaBoard - Português</title>
     <meta name="title" content="VilaBoard">
-    <meta name="description" content="Draw, write, move, scale your ideias on VilaBoard.
-    Perfect to teaching, YouTube and presentations">
+    <meta name="description" content="Desenhe, escreva, modifique suas idéias no VilaBoard. Perfeito para estudantes e professores anotarem e gravarem duas aulas!">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.vilaboard.com">
     <meta property="og:title" content="VilaBoard">
-    <meta property="og:description" content="Draw, write, move, scale your ideias on VilaBoard.
-    Perfect to teaching, YouTube and presentations.">
+    <meta property="og:description" content="Desenhe, escreva, modifique suas idéias no VilaBoard. Perfeito para estudantes e professores anotarem e gravarem duas aulas!">
     <meta property="og:image" content="https://www.vilaboard.com/imgs/screenshot.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.vilaboard.com">
     <meta property="twitter:title" content="VilaBoard">
-    <meta property="twitter:description" content="Draw, write, move, scale your ideias on VilaBoard.
-    Perfect to teaching, YouTube and presentations">
+    <meta property="twitter:description" content="Desenhe, escreva, modifique suas idéias no VilaBoard. Perfeito para estudantes e professores anotarem e gravarem duas aulas!">
     <meta property="twitter:image" content="https://www.vilaboard.com/imgs/screenshot.png">
     <script src="fabric.js"></script>
 
@@ -37,18 +34,15 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap" rel="stylesheet"> 
-    <script>
-      var language = window.navigator.userLanguage || window.navigator.language;
-      console.log(language);
-      if (language === 'pt-BR') window.location.replace("/index-ptbr.html");
-    </script>
   <style>
     body {
       font-family: 'Rubik', sans-serif;
       background: rgb(0,71,94);
       background: linear-gradient(145deg, rgba(0,71,94,1) 0%, rgba(0,110,147,1) 49%, rgba(0,71,94,1) 100%);
     }
-    html {background-color: unset;}
+    html {
+      background-color: unset;
+      }
     .btng {
       min-width: 150px;
       padding: 5px;
@@ -106,7 +100,7 @@
               </a>
               <div class="navbar-item navbar-left">
                 <a class="navbar-item">
-                  How to use?
+                  Como usar?
                 </a>
               </div>
             </div>
@@ -118,15 +112,15 @@
           <div class="column is-4">
             <div class="">
               <p class="title is-1 co">
-                Wellcome to VilaBoard!
+                Bem vindo ao VilaBoard!
               </p>
               <p class="subtitle">
-                Share your ideas, draw concepts, teach ...
+                Compartilhe e desenhe sua idéias, dê aulas incríveis, anote suas aulas ou simplesmente faça Arte!
               </p>
               <p class="ag">
                 <em>
                   <small class="has-text-justified pt-5">
-                    We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from. 
+                    Este site usa cookies para ajudar a compreender as necessidades dos usuários, para personalizar a exibição e guardar suas preferências. Mas não se preocupe são todas informações anônimas! Continuando você concorda com esses termos.
                   </small>
                 </em>
               </p> 
@@ -134,13 +128,13 @@
           </div>
           <div class="pl-5 column">
               <p class="title has-text-centered">
-                Choose a theme to start ...
+                Escolha um tema para iniciar ...
               </p>   
               <div class="columns is-justify-content-right">
 
                 <div class="column is-2 az">
                   <article class="">
-                    <p class="title is-size-6">Blackboard</p>              
+                    <p class="title is-size-6">Black</p>              
                     <figure class="image is-4by3">
                       <a  id="t1" href="board.html?back=black.jpg">
                         <img  src="imgs/black-small.jpg">
@@ -152,7 +146,7 @@
       
                 <div class="column  is-2  az">
                   <article class="">
-                    <p class="title is-size-6">Watercolor</p>              
+                    <p class="title is-size-6">Aquarela</p>              
                     <figure class="image is-4by3">
                       <a id="t2" href="board.html?back=water.jpg">
                         <img src="imgs/water-small.jpg">
@@ -170,34 +164,33 @@
                         <img src="imgs/grid-small.png">
                       </a>                
                     </figure>
-                    <small>by vilaboard</small>
+        
                   </article>
                 </div>
       
                 <div class="column  is-2 az">
                   <article class="">
-                    <p class="title is-size-6">Paper</p>              
+                    <p class="title is-size-6">Papel</p>              
                     <figure class="image is-4by3">
                       <a id="t4" href="board.html?back=paper.jpg">
                         <img src="imgs/paper-small.png">
                       </a>                
                     </figure>
-                    <small>by vilaboard</small>
+  
                   </article>
                 </div>
       
                 <div class="column is-2  az">
                   <article class="">
-                    <p class="title is-size-6">School</p>              
+                    <p class="title is-size-6">Escolar</p>              
                     <figure class="image is-4by3">
                       <a id="t5" href="board.html?back=school.jpg">
                         <img src="imgs/school-small.jpg">
                       </a>                
                     </figure>
-                    <small>by vilaboard</small>
+       
                   </article>
                 </div>
-
               </div>
           </div>
         </div>
