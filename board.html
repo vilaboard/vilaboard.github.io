@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Primary Meta Tags -->
-    <title>VilaBoard</title>
+    <title>VilaBoard - Português</title>
     <meta name="title" content="VilaBoard">
     <meta name="description" content="Draw, write, move, scale your ideias on VilaBoard.
     Perfect to teaching, YouTube and presentations">
@@ -15,7 +15,7 @@
     <meta property="og:url" content="https://www.vilaboard.com">
     <meta property="og:title" content="VilaBoard">
     <meta property="og:description" content="Draw, write, move, scale your ideias on VilaBoard.
-    Perfect to teaching, YouTube and presentations.">
+    Perfect to teaching, YouTube and presentations">
     <meta property="og:image" content="https://www.vilaboard.com/imgs/screenshot.png">
 
     <!-- Twitter -->
@@ -36,31 +36,21 @@
     </script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
 
-    <script>
-      MathJax = {
-        // your configuration here, if needed
-      };
-      </script>
-      <script type="text/javascript" id="MathJax-script" async
-        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
-      </script>
-
   <style>
     body, html {
       background-size: cover;
       background-repeat: repeat-x;
       overflow-y: auto;
       overflow-x: hidden;
+      -webkit-user-select: none;  
+      -moz-user-select: none;    
+      -ms-user-select: none;      
+      user-select: none;
     }
     html {background-color: unset;}
     .btng {
       min-width: 150px;
       padding: 5px;
-    }
-    canvas {
-      -webkit-background-origin:border;
-      background-size: cover;
-      background-repeat: repeat-x;
     }
     .btng a {
       display: inline-block;
@@ -72,17 +62,15 @@
       max-width: 28px;
       max-height: 28px;
       background-color: #eee;
-      box-shadow: 2px 2px 2px #cccccc55;
+      box-shadow: 2px 2px 2px #b7b7b7;
       text-align: center;
-
     }
     .btng a:hover {
       transform: scale(1.2);
     }
     .btng a:active {
       transform: scale(0.8);
-    }
-    
+    }    
     .az:hover {
       transform: scale(1.1);
       transition: transform 0.5s;
@@ -96,21 +84,14 @@
     }
     .h {
       min-height: 56px;
-    }
-    .vilaboard {
-      font-size: 18px;
-      font-weight: bold;
-      color: #807e7cbd;
-      float: right;
-      display: table-header-group;
       position: absolute;
-      right: 18px;
+      z-index: 100;
+      width: 100%;
     }
 
     #teach {
       width: 100%;
       height: 100%;
-      border: 1px solid #cccccc33;
     }
 
      #color1 {  background-color:#c0ff2e ; }
@@ -140,7 +121,35 @@
     background-color: "#ffffff88" !important;
     }
     .navbar {
-        background-color:#ffffff;        
+        background-color: #ffffff;      
+        z-index: 100;
+        margin: auto;     
+    }
+
+    .ss{
+      font-family: sans-serif;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    .s{
+      font-family: serif;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    .sf{
+      font-family: fantasy;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    .sm{
+      font-family: monospace;
+      font-size: 1rem;
+      font-weight: bold;
+    }
+    .sc{
+      font-family: cursive;
+      font-size: 1rem;
+      font-weight: bold;
     }
 @media only screen and (min-width: 1024px) { 
     .min {
@@ -149,6 +158,7 @@
       transition-delay: 0.5s;
       border-radius: 100px;
       box-shadow: 2px 2px 2px #ccc;
+      opacity: 0.5;
     }
     .min:hover ,  .min:active {
         transition: 0.5s;
@@ -156,6 +166,7 @@
         box-shadow: none;
         border-radius: 0px;
         margin-top: 0px;
+        opacity: 1.0;
     }
 }
     .button, .file-cta, .file-name, .input, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .select select, .textarea {
@@ -179,7 +190,7 @@
   <body>
     <div class="h">
     <nav id="mn" class="navbar is-transparent min">
-      <div class="navbar-brand p-1 pl-5">
+      <div class="navbar-brand pt-1 pl-5 mr-5">
         <svg width="140px" height="40px" version="1.1" viewBox="0 0 90.791908 19.294567">
         <g transform="translate(-80.19 -97.793)">
         <g transform="matrix(.99416 0 -.15257 1.0059 0 0)" fill="#008080" stroke-width=".26614" style="inline-size:73.6273;white-space:pre" aria-label="vila">
@@ -205,27 +216,43 @@
             </a>
             <div class="navbar-dropdown is-boxed">
               <a id="new" class="navbar-item">New</a>
+              <div class="navbar-divider"></div>
+              <a id="exp" class="navbar-item">Download board picture</a>
+              
+              <div class="navbar-divider"></div>
+              <div class="">
+                <label class="file-label">
+                  <input id="upl" class="file-input" type="file" name="resume">
+                  <span class="navbar-item file-cta">
+                    <span class="file-label">
+                      Import picture ...
+                    </span>
+                  </span>
+                </label>
+              </div>
+              <!--
+              <a target="_blank" href="https://forms.gle/ArUJ58X7xuw4MbcG6" class="navbar-item">Contato ...</a>
+              <a target="_blank" href="termos-ptBR.html" class="navbar-item">Termos de uso</a>
+              -->
             </div>
           </div>
-          <span class="navbar-item" href="">
-            <input id="addtext" class="input " type="text" placeholder="Text here ...">          
-          </span>
-          <div class="navbar-item">
-            <div class="buttons">
-              <a id="addtextbt" class="button " >            
-                <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
-                  <g transform="translate(-1.9573 -1.7103)">
-                  <rect transform="rotate(90)" x="3.5276" y="-4.4034" width=".54252" height="2.2597" rx=".18621" ry=".26451" stop-color="#000000" style="paint-order:markers stroke fill"/>
-                  <rect transform="scale(-1)" x="-3.5554" y="-4.9448" width=".54252" height="2.2597" rx=".18621" ry=".26451" stop-color="#000000" style="paint-order:markers stroke fill"/>
-                  </g>
-                  </svg>
-              </a>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" >
+              Font
+            </a>
+            <div class="navbar-dropdown is-boxed p-2">
+              <div class="navbar-item"><span class="ss button is-fullwidth has-text-centered" obj="fontFamily" value="sans-serif">Sans Serif</span></div>
+              <div class="navbar-item"><span class="s button is-fullwidth has-text-centered"   obj="fontFamily" value="serif">Serif</span></div>
+              <div class="navbar-item"><span class="sm button is-fullwidth has-text-centered"  obj="fontFamily" value="monospace">Monospace</span></div>
+              <div class="navbar-item"><span class="sc button is-fullwidth has-text-centered"  obj="fontFamily" value="cursive">Cursive</span></div>
+              <div class="navbar-item"><span class="sf button is-fullwidth has-text-centered"  obj="fontFamily" value="fantasy">Fantasy</span></div>
             </div>
+
           </div>
 
           <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link" >
-              Fill and Stroke
+              Fill and stroke
             </a>
             <div class="navbar-dropdown is-boxed btng">
               <span>Fill color</span>
@@ -239,6 +266,7 @@
               <a  id="color5" obj="fill" value="#cecece"></a>
               <a  id="color6" obj="fill"  value="#878787"></a>
               <div class="navbar-divider"></div>
+              <div class="is-fullwidth"></div>
               <span>Stroke width</span>
               <input id="swi" class="slider is-fullwidth is-small" step="1" min="0" max="100" obj="strokeWidth" value="50" type="range">
               <div class="navbar-divider"></div>
@@ -277,6 +305,19 @@
           </div>
           <div class="navbar-item">
             <div class="buttons">
+              <a id="txt" class="button" >
+                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 2.646 4.233"><g style="line-height:0;-inkscape-font-specification:'Georgia Italic'"><path d="M.94 1.612l-.07-.588-.27.588zm-.12.61l.011-.07.057-.008q.034-.006.052-.014.024-.01.036-.022.013-.012.013-.036l-.01-.104L.953 1.7H.558q-.026.055-.056.128l-.045.11q-.014.034-.028.077-.012.04-.012.055 0 .035.042.056.042.021.105.026l-.012.07H.12l.012-.07q.02-.002.054-.011.033-.01.055-.028.028-.021.053-.052.026-.032.055-.094.138-.29.3-.647L.94.697h.063L1.152 2q.004.039.015.066.011.027.034.05.015.015.042.026.027.01.048.01l-.012.07z" style="-inkscape-font-specification:'Georgia Italic'" aria-label="A" font-style="italic" font-weight="400" font-size="3.073" font-family="Georgia" letter-spacing="0" word-spacing="0" stroke-width=".032"/></g><path fill="#a9a9a9" d="M1.46.694h1.086v.202H1.46zM1.46 1.132h1.086v.202H1.46zM1.46 1.57h1.086v.203H1.46zM.114 2.559h2.448v.202H.114zM.103 3.043h2.459v.202H.102zM.08 3.527h2.483v.202H.08z"/></svg>
+              </a>   
+              <a id="hand" class="button " >      
+                <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331"  >
+                <g transform="translate(-1.9573 -1.7103)" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".25264">
+                <path d="m2.6761 2.9492c-0.052012-0.7271 0.40878-0.5293 0.41222-0.3512 0.010576-0.37653 0.46565-0.38314 0.47805-0.060882 0.15578-0.13986 0.44197-0.21031 0.41188 0.37958 0.12427-0.1455 0.43742-0.1376 0.425 0.17759-0.016287 0.63349 0.25926 2.1454-1.0417 2.3024-1.218 0.011766-1.7225-2.5373-0.65079-1.1713z" stop-color="#000000" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
+                <path d="m3.0864 2.6266 0.018971 1.1114"/>
+                <path d="m3.5677 2.5371 0.01897 1.1114"/>
+                <path d="m3.9772 2.9365 0.022564 0.90718"/>
+                </g>
+                </svg>                           
+                </a>
               <a id="select" class="button " >            
                 <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
                   <g transform="translate(-1.9573 -1.7103)">
@@ -284,7 +325,7 @@
                   <path d="m301.12 173.31-182.13-170.04c-3.242-3.038-7.891-4.049-12.105-2.639-4.211 1.404-7.317 5.006-8.086 9.389l-43.202 245.39c-0.854 4.847 1.306 9.717 5.464 12.341 4.152 2.625 9.49 2.465 13.491-0.378l59.968-42.699 47.219 127.45c2.127 6.336 8.984 9.765 15.332 7.648l62.087-20.771c6.342-2.116 9.771-8.984 7.648-15.327l-47.228-127.43 73.596-1.975c4.905-0.13 9.262-3.215 11.006-7.802 1.744-4.609 0.532-9.805-3.062-13.153zm-98.532-0.851c-3.842 0.109-7.4 2.004-9.599 5.163-2.205 3.147-2.778 7.146-1.561 10.781l48.557 131.47-39.111 13.075-48.56-131.46c-1.224-3.647-4.093-6.502-7.743-7.679-3.656-1.188-7.643-0.585-10.772 1.649l-49.216 35.027 34.206-194.28 144.19 134.64z"/>
                   </g>
                   </g>
-                  </svg>
+                </svg>
                 </a>
               <a id="draw" class="button " >            
                 <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 10 16" >
@@ -311,7 +352,7 @@
           <div class="navbar-item">  
             <label class="checkbox">
               <input type="checkbox" onclick="sti(this)">
-              Stick ToolBar
+              Stick
             </label>            
           </div>
           </div>
