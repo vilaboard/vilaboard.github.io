@@ -34,6 +34,27 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
 
   <style>
+    @font-face {
+      font-family: ComingSoon;
+      src: url("/fonts/ComingSoon-Regular.ttf");
+    }
+    @font-face {
+      font-family: Inconsolata;
+      src: url("/fonts/Inconsolata-Regular.ttf");
+    }
+    @font-face {
+      font-family: Newsreader;
+      src: url("/fonts/Newsreader-Regular.ttf");
+    }
+    @font-face {
+      font-family: Opensans;
+      src: url("/fonts/OpenSans-Regular.ttf");
+    }
+    @font-face {
+      font-family: PatrickHand;
+      src: url("/fonts/PatrickHand-Regular.ttf");
+    }
+
     body, html {
       background-size: cover;
       background-repeat: repeat-x;
@@ -49,6 +70,27 @@
       min-width: 150px;
       padding: 5px;
     }
+    .navbar-item, .navbar-link {
+      padding: .1rem .35rem !important;
+    }
+
+    .img a {
+      display:block;
+      width: 100%;
+      max-height: 5rem;
+      min-height: 2rem;
+      padding: 5px;
+      text-align: center;
+
+    }
+    .img svg {
+      height: 100%;
+      margin:auto;
+    }
+    .img a:hover {
+      transform: scale(1.1);
+    }
+
     .btng a {
       display: inline-block;
       max-width: 28px;
@@ -61,12 +103,14 @@
       background-color: #eee;
       box-shadow: 2px 2px 2px #b7b7b7;
       text-align: center;
+      overflow: hidden;
+      padding-top: 2px;
     }
     .btng a:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
     .btng a:active {
-      transform: scale(0.8);
+      transform: scale(1.0);
     }    
     .az:hover {
       transform: scale(1.1);
@@ -120,7 +164,29 @@
     .navbar {
         background-color: #ffffff;      
         z-index: 100;
-        margin: auto;     
+        margin: auto;   
+        border-bottom:1px solid #ccc;  
+    }
+
+    .cs {
+      font-family: ComingSoon;
+      font-size: 1rem;
+    }
+    .in {
+      font-family: Inconsolata;
+      font-size: 1rem;
+    }
+    .ns {
+      font-family: Newsreader;
+      font-size: 1rem;
+    }
+    .os {
+      font-family: Opensans;
+      font-size: 1rem;
+    }
+    .ph {
+      font-family: PatrickHand;
+      font-size: 1rem;
     }
 
     .ss{
@@ -208,7 +274,7 @@
       <div id="nav" class="navbar-menu">
         <div class="navbar-start">
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" >
+            <a class="navbar-link is-arrowless" >
               Arquivo
             </a>
             <div class="navbar-dropdown is-boxed">
@@ -227,27 +293,41 @@
                   </span>
                 </label>
               </div>
+              <div class="navbar-divider"></div>
+              <div class="">
+                <label class="file-label">
+                  <input id="upf" class="file-input" type="file" name="resume">
+                  <span class="navbar-item file-cta">
+                    <span class="file-label">
+                      Imagem de fundo ...
+                    </span>
+                  </span>
+                </label>
+              </div>
+              <div class="navbar-divider"></div>
               <a target="_blank" href="https://forms.gle/ArUJ58X7xuw4MbcG6" class="navbar-item">Contato ...</a>
               <a target="_blank" href="termos-ptBR.html" class="navbar-item">Termos de uso</a>
             </div>
           </div>
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" >
-              Font
+            <a class="navbar-link is-arrowless" >
+              <svg xmlns="http://www.w3.org/2000/svg" width="50" height="30" viewBox="0 0 2.646 4.233" xmlns:v="https://vecta.io/nano"><text xml:space="preserve" x="2.434" y="4.69" font-size="3.913" font-family="Serto Batnan" letter-spacing="0" word-spacing="0"><tspan x="0.477" y="2.98" font-weight="normal" font-family="Z003">f</tspan></text></svg>
             </a>
             <div class="navbar-dropdown is-boxed p-2">
-              <div class="navbar-item"><span class="ss button is-fullwidth has-text-centered" obj="fontFamily" value="sans-serif">Sem serifa</span></div>
-              <div class="navbar-item"><span class="s button is-fullwidth has-text-centered"   obj="fontFamily" value="serif">Serifa</span></div>
-              <div class="navbar-item"><span class="sm button is-fullwidth has-text-centered"  obj="fontFamily" value="monospace">Monospace</span></div>
-              <div class="navbar-item"><span class="sc button is-fullwidth has-text-centered"  obj="fontFamily" value="cursive">Cursiva</span></div>
-              <div class="navbar-item"><span class="sf button is-fullwidth has-text-centered"  obj="fontFamily" value="fantasy">Fantasia</span></div>
+              <div class="navbar-item"><a class="cs button is-fullwidth has-text-centered"  obj="fontFamily" value="ComingSoon">ComingSoon</a></div>
+              <div class="navbar-item"><a class="in button is-fullwidth has-text-centered"  obj="fontFamily" value="Inconsolata">Inconsolata</a></div>
+              <div class="navbar-item"><a class="ss button is-fullwidth has-text-centered"  obj="fontFamily" value="sans-serif">Sem serifa</a></div>
+              <div class="navbar-item"><a class="s button is-fullwidth has-text-centered"   obj="fontFamily" value="serif">Serifa</a></div>
+              <div class="navbar-item"><a class="sm button is-fullwidth has-text-centered"  obj="fontFamily" value="monospace">Monospace</a></div>
+              <div class="navbar-item"><a class="sc button is-fullwidth has-text-centered"  obj="fontFamily" value="cursive">Cursiva</a></div>
+              <div class="navbar-item"><a class="sf button is-fullwidth has-text-centered"  obj="fontFamily" value="fantasy">Fantasia</a></div>
             </div>
 
           </div>
 
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" >
-              Preenchimento e linha
+            <a class="navbar-link is-arrowless" >
+              <svg xmlns="http://www.w3.org/2000/svg" width="50" height="35" viewBox="0 0 2.646 4.233" xmlns:v="https://vecta.io/nano"><path d="M.619 3.248c.131-.032.261-.073.374-.15.034-.023.065-.051.098-.077.029-.032.061-.061.086-.095a.67.67 0 0 0 .121-.409c-.005-.142-.037-.209-.08-.343-.092-.233-.232-.442-.353-.66L.731 1.25C.688 1.14.651 1.025.683.907.693.87.714.838.729.803L.258.783h0C.24.823.216.861.206.903c-.032.131.022.254.076.369l.077.127.092.138.096.153.185.325c.026.055.046.114.07.17.034.135.058.188.053.327s-.057.271-.145.379c-.026.032-.057.058-.086.087l-.103.069c-.141.08-.307.115-.468.112l.566.09z" fill="#ffd809"/><path d="M1.232 3.339c.131-.032.261-.073.374-.15.034-.023.065-.051.098-.077.029-.032.061-.061.086-.095a.67.67 0 0 0 .121-.409c-.005-.142-.037-.209-.08-.343-.092-.233-.232-.442-.353-.66l-.133-.264c-.044-.109-.081-.224-.049-.343.01-.037.031-.069.046-.104L.871.874h0C.854.914.83.952.819.994c-.032.131.022.254.076.369l.077.127.092.138.096.153.185.325c.026.055.046.114.07.17.034.135.058.188.053.327s-.057.271-.145.379c-.026.032-.057.058-.086.087l-.103.069c-.141.08-.307.115-.468.112l.566.09z" fill="#ff1493"/><path d="M1.895 3.452c.131-.032.261-.073.374-.15.034-.023.065-.051.098-.077.029-.032.061-.061.086-.095a.67.67 0 0 0 .121-.409c-.005-.142-.037-.209-.08-.343-.092-.233-.232-.442-.353-.66l-.133-.264c-.044-.109-.081-.224-.049-.343.01-.037.031-.069.046-.104l-.471-.02h0c-.017.04-.042.077-.052.119-.032.131.022.254.076.369l.077.127.092.138.096.153.185.325c.026.055.046.114.07.17.034.135.058.188.053.327s-.057.271-.145.379c-.026.032-.057.058-.086.087l-.103.069c-.141.08-.307.115-.468.112l.566.09z" fill="#00bfff"/></svg>
             </a>
             <div class="navbar-dropdown is-boxed btng">
               <span>Cor de preenchimento</span>
@@ -260,11 +340,25 @@
               <a  id="color4" obj="fill" value="#2E62FF"></a>
               <a  id="color5" obj="fill" value="#cecece"></a>
               <a  id="color6" obj="fill"  value="#878787"></a>
+              <a  obj="fill"  value="#00000000">                  
+                <svg obj="fill"  value="#00000000" xmlns="http://www.w3.org/2000/svg" width="10" height="10" version="1.1">
+                  <line x1="0" y1="0" x2="10" y2="10" stroke="black" stroke-width="2px"/>
+                  <line x1="0" y1="10" x2="10" y2="0" stroke="black" stroke-width="2px"/>
+               </svg>
+              </a>
               <div class="navbar-divider"></div>
               <div class="is-fullwidth"></div>
               <span>Tamanho da linha</span>
-              <input id="swi" class="slider is-fullwidth is-small" step="1" min="0" max="100" obj="strokeWidth" value="50" type="range">
+              <input id="swi" class="slider is-fullwidth is-small" step="0.1" min="0" max="10" obj="strokeWidth" value="50" type="range">
+              <span>Transparência</span>
+              <input id="swo" class="slider is-fullwidth is-small" step="0.1" min="0.0" max="1.0" obj="opacity" value="1.0" type="range">
               <div class="navbar-divider"></div>
+              <a  obj="strokeWidth" value="0">                  
+                <svg obj="strokeWidth" value="0" xmlns="http://www.w3.org/2000/svg" width="10" height="10" version="1.1">
+                  <line x1="0" y1="0" x2="10" y2="10" stroke="black" stroke-width="2px"/>
+                  <line x1="0" y1="10" x2="10" y2="0" stroke="black" stroke-width="2px"/>
+               </svg>
+              </a>
               <a  id="st1" class="stroke" obj="strokeWidth" value="1"></a>
               <a  id="st2" class="stroke" obj="strokeWidth" value="2"></a>
               <a  id="st3" class="stroke" obj="strokeWidth" value="5"></a>
@@ -283,25 +377,33 @@
             </div>
           </div>
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link" >
-              Formas
+            <a class="navbar-link is-arrowless" >
+              <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 2.646 4.233" ><path d="M2.104 3.241l-.737-.601-.738.599.344-.887-.798-.517.949.053.245-.919.243.919.95-.051-.799.515z" fill="#6495ed" paint-order="stroke fill markers"/></svg>
             </a>
-            <div class="navbar-dropdown is-boxed btng">
-              <a  id="square">
+            <div class="navbar-dropdown is-boxed img">
+              <a  obj="svg">
                 <svg width="20px" height="20px" >
-                  <rect x="5" y="10" width="10" height="10" stroke="black" fill="transparent" stroke-width="2"/>
+                  <rect x="1" y="1" width="19" height="19" stroke="black" fill="#fff" stroke-width="1"/>
                   </svg>
               </a>
-              <a  id="circle">
+              <a  obj="svg">
                 <svg width="20px" height="20px" >
-                <circle cx="10" cy="13" r="6" stroke="black" fill="transparent" stroke-width="2"/>                </svg>
+                <circle cx="10" cy="10" r="9" stroke="black" fill="#fff" stroke-width="1"/>                </svg>
               </a>
-            </div>
+              <a  obj="svg">
+                <svg width="20px" height="20px" >
+                <path d="M 1 1 L 1 19 l 19 0  z" stroke="black" fill="#fff" stroke-width="1"/>                </svg>
+              </a>
+              <a  obj="svg">
+                <svg width="20" height="20"><path d="M12.395.655c-1.153-.176-2.256.249-2.967 1.018-.459-.421-1.052-.723-1.736-.828-1.76-.269-3.424.842-3.714 2.479-.021.12-.018.239-.023.358C2.396 3.675 1.015 4.71.754 6.187c-.259 1.463.672 2.849 2.128 3.32a2.84 2.84 0 0 0-.144.496c-.289 1.637.906 3.182 2.666 3.451.862.132 1.697-.069 2.363-.499.471.737 1.261 1.292 2.24 1.441 1.397.214 2.722-.451 3.357-1.55.323.171.677.305 1.065.364 1.76.269 3.421-.843 3.71-2.48.145-.823-.084-1.621-.572-2.248.374-.404.647-.897.747-1.461.289-1.637-.906-3.182-2.666-3.451a3.47 3.47 0 0 0-.55-.036c-.043-1.41-1.151-2.642-2.703-2.879z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1"/></svg>              </a>
+                
+              </div>
+   
           </div>
           <div class="navbar-item">
             <div class="buttons">
               <a id="txt" class="button" >
-                <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 2.646 4.233"><g style="line-height:0;-inkscape-font-specification:'Georgia Italic'"><path d="M.94 1.612l-.07-.588-.27.588zm-.12.61l.011-.07.057-.008q.034-.006.052-.014.024-.01.036-.022.013-.012.013-.036l-.01-.104L.953 1.7H.558q-.026.055-.056.128l-.045.11q-.014.034-.028.077-.012.04-.012.055 0 .035.042.056.042.021.105.026l-.012.07H.12l.012-.07q.02-.002.054-.011.033-.01.055-.028.028-.021.053-.052.026-.032.055-.094.138-.29.3-.647L.94.697h.063L1.152 2q.004.039.015.066.011.027.034.05.015.015.042.026.027.01.048.01l-.012.07z" style="-inkscape-font-specification:'Georgia Italic'" aria-label="A" font-style="italic" font-weight="400" font-size="3.073" font-family="Georgia" letter-spacing="0" word-spacing="0" stroke-width=".032"/></g><path fill="#a9a9a9" d="M1.46.694h1.086v.202H1.46zM1.46 1.132h1.086v.202H1.46zM1.46 1.57h1.086v.203H1.46zM.114 2.559h2.448v.202H.114zM.103 3.043h2.459v.202H.102zM.08 3.527h2.483v.202H.08z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 2.646 4.233"><g style="line-height:0;-inkscape-font-specification:'Georgia Italic'"><path d="M.94 1.612l-.07-.588-.27.588zm-.12.61l.011-.07.057-.008q.034-.006.052-.014.024-.01.036-.022.013-.012.013-.036l-.01-.104L.953 1.7H.558q-.026.055-.056.128l-.045.11q-.014.034-.028.077-.012.04-.012.055 0 .035.042.056.042.021.105.026l-.012.07H.12l.012-.07q.02-.002.054-.011.033-.01.055-.028.028-.021.053-.052.026-.032.055-.094.138-.29.3-.647L.94.697h.063L1.152 2q.004.039.015.066.011.027.034.05.015.015.042.026.027.01.048.01l-.012.07z" style="-inkscape-font-specification:'Georgia Italic'" aria-label="A" font-style="italic" font-weight="400" font-size="3.073" font-family="Georgia" letter-spacing="0" word-spacing="0" stroke-width=".032"/></g><path fill="#a9a9a9" d="M1.46.694h1.086v.202H1.46zM1.46 1.132h1.086v.202H1.46zM1.46 1.57h1.086v.203H1.46zM.114 2.559h2.448v.202H.114zM.103 3.043h2.459v.202H.102zM.08 3.527h2.483v.202H.08z"/></svg>
               </a>   
               <a id="hand" class="button " >      
                 <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331"  >
