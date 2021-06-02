@@ -26,6 +26,7 @@
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4FJBVX9893"></script>
     <script>
+      var $ = function(id){return document.getElementById(id)};
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
@@ -89,6 +90,10 @@
     }
     .img a:hover {
       transform: scale(1.1);
+    }
+
+    .active {
+      border:1px #2E62FF solid !important;
     }
 
     .btng a {
@@ -159,7 +164,7 @@
      #st4 { background-color: black; border:  6px solid #eee; }
 
     .modal-background {
-    background-color: "#ffffff88" !important;
+    background-color: #ffffff88 !important;
     }
     .navbar {
         background-color: #ffffff;      
@@ -377,10 +382,11 @@
             </div>
           </div>
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link is-arrowless" >
-              <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 2.646 4.233" ><path d="M2.104 3.241l-.737-.601-.738.599.344-.887-.798-.517.949.053.245-.919.243.919.95-.051-.799.515z" fill="#6495ed" paint-order="stroke fill markers"/></svg>
+
+            <a class="navbar-link is-arrowless button" >
+              <svg width="16" height="24" viewBox="0 0 2.5 4" ><path d="M2.104 3.241l-.737-.601-.738.599.344-.887-.798-.517.949.053.245-.919.243.919.95-.051-.799.515z" fill="#6495ed" paint-order="stroke fill markers"/></svg>            
             </a>
-            <div class="navbar-dropdown is-boxed img">
+            <div class="navbar-dropdown is-boxed img p-2">
               <a  obj="svg">
                 <svg width="20px" height="20px" >
                   <rect x="1" y="1" width="19" height="19" stroke="black" fill="#fff" stroke-width="1"/>
@@ -395,18 +401,28 @@
                 <path d="M 1 1 L 1 19 l 19 0  z" stroke="black" fill="#fff" stroke-width="1"/>                </svg>
               </a>
               <a  obj="svg">
-                <svg width="20" height="20"><path d="M12.395.655c-1.153-.176-2.256.249-2.967 1.018-.459-.421-1.052-.723-1.736-.828-1.76-.269-3.424.842-3.714 2.479-.021.12-.018.239-.023.358C2.396 3.675 1.015 4.71.754 6.187c-.259 1.463.672 2.849 2.128 3.32a2.84 2.84 0 0 0-.144.496c-.289 1.637.906 3.182 2.666 3.451.862.132 1.697-.069 2.363-.499.471.737 1.261 1.292 2.24 1.441 1.397.214 2.722-.451 3.357-1.55.323.171.677.305 1.065.364 1.76.269 3.421-.843 3.71-2.48.145-.823-.084-1.621-.572-2.248.374-.404.647-.897.747-1.461.289-1.637-.906-3.182-2.666-3.451a3.47 3.47 0 0 0-.55-.036c-.043-1.41-1.151-2.642-2.703-2.879z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1"/></svg>              </a>
-                
-              </div>
-   
+                <svg width="20" height="20"><path d="M12.395.655c-1.153-.176-2.256.249-2.967 1.018-.459-.421-1.052-.723-1.736-.828-1.76-.269-3.424.842-3.714 2.479-.021.12-.018.239-.023.358C2.396 3.675 1.015 4.71.754 6.187c-.259 1.463.672 2.849 2.128 3.32a2.84 2.84 0 0 0-.144.496c-.289 1.637.906 3.182 2.666 3.451.862.132 1.697-.069 2.363-.499.471.737 1.261 1.292 2.24 1.441 1.397.214 2.722-.451 3.357-1.55.323.171.677.305 1.065.364 1.76.269 3.421-.843 3.71-2.48.145-.823-.084-1.621-.572-2.248.374-.404.647-.897.747-1.461.289-1.637-.906-3.182-2.666-3.451a3.47 3.47 0 0 0-.55-.036c-.043-1.41-1.151-2.642-2.703-2.879z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="1"/></svg>              </a>               
+              </div>   
+          </div>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a id="line" class="button " >            
+              <svg height="16" width="24" viewBox="0 0 10 16"><path d="M1.805 13.935L8.46 1.711" fill="none" stroke="#000" stroke-width="2.644"/><g stroke-dashoffset="7.5"><ellipse cx="2.338" cy="14.402" rx="1.409" ry="1.196" opacity=".043" fill="red" fill-opacity=".389" stroke="#fff" stroke-width="56.693" stroke-opacity="0" paint-order="stroke fill markers"/><g stroke="#000" fill="#fff" stroke-width="1.566"><ellipse cx="1.863" cy="13.55" rx=".963" ry=".939" paint-order="stroke fill markers"/><ellipse cx="8.179" cy="2.076" rx=".963" ry=".939" paint-order="stroke fill markers"/></g></g></svg>                  
+            </a>
+            <!--
+            <div class="navbar-dropdown is-boxed img p-2">
+              <a id="path" class="button" >            
+                <svg height="16" width="24" viewBox="0 0 10 16"><path d="M1.853 14.53l.848-11.225 5.503-.399" fill="none" stroke="#000" stroke-width="2"/><g stroke-dashoffset="7.5"><ellipse cx="2.338" cy="14.402" rx="1.409" ry="1.196" opacity=".043" fill="red" fill-opacity=".389" stroke="#fff" stroke-width="56.693" stroke-opacity="0" paint-order="stroke fill markers"/><g stroke="#000" fill="#fff"><ellipse cx="1.897" cy="13.501" rx=".917" ry=".907" stroke-width="1.502" paint-order="stroke fill markers"/><ellipse cx="8.26" cy="2.854" rx=".908" ry=".935" stroke-width="1.518" paint-order="stroke fill markers"/></g></g></svg>                
+              </a>
+            </div>
+          -->
           </div>
           <div class="navbar-item">
             <div class="buttons">
               <a id="txt" class="button" >
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 2.646 4.233"><g style="line-height:0;-inkscape-font-specification:'Georgia Italic'"><path d="M.94 1.612l-.07-.588-.27.588zm-.12.61l.011-.07.057-.008q.034-.006.052-.014.024-.01.036-.022.013-.012.013-.036l-.01-.104L.953 1.7H.558q-.026.055-.056.128l-.045.11q-.014.034-.028.077-.012.04-.012.055 0 .035.042.056.042.021.105.026l-.012.07H.12l.012-.07q.02-.002.054-.011.033-.01.055-.028.028-.021.053-.052.026-.032.055-.094.138-.29.3-.647L.94.697h.063L1.152 2q.004.039.015.066.011.027.034.05.015.015.042.026.027.01.048.01l-.012.07z" style="-inkscape-font-specification:'Georgia Italic'" aria-label="A" font-style="italic" font-weight="400" font-size="3.073" font-family="Georgia" letter-spacing="0" word-spacing="0" stroke-width=".032"/></g><path fill="#a9a9a9" d="M1.46.694h1.086v.202H1.46zM1.46 1.132h1.086v.202H1.46zM1.46 1.57h1.086v.203H1.46zM.114 2.559h2.448v.202H.114zM.103 3.043h2.459v.202H.102zM.08 3.527h2.483v.202H.08z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="24" viewBox="0 0 2.646 4.233"><g style="line-height:0;-inkscape-font-specification:'Georgia Italic'"><path d="M.94 1.612l-.07-.588-.27.588zm-.12.61l.011-.07.057-.008q.034-.006.052-.014.024-.01.036-.022.013-.012.013-.036l-.01-.104L.953 1.7H.558q-.026.055-.056.128l-.045.11q-.014.034-.028.077-.012.04-.012.055 0 .035.042.056.042.021.105.026l-.012.07H.12l.012-.07q.02-.002.054-.011.033-.01.055-.028.028-.021.053-.052.026-.032.055-.094.138-.29.3-.647L.94.697h.063L1.152 2q.004.039.015.066.011.027.034.05.015.015.042.026.027.01.048.01l-.012.07z" style="-inkscape-font-specification:'Georgia Italic'" aria-label="A" font-style="italic" font-weight="400" font-size="3.073" font-family="Georgia" letter-spacing="0" word-spacing="0" stroke-width=".032"/></g><path fill="#a9a9a9" d="M1.46.694h1.086v.202H1.46zM1.46 1.132h1.086v.202H1.46zM1.46 1.57h1.086v.203H1.46zM.114 2.559h2.448v.202H.114zM.103 3.043h2.459v.202H.102zM.08 3.527h2.483v.202H.08z"/></svg>
               </a>   
               <a id="hand" class="button " >      
-                <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331"  >
+                <svg width="16" height="24" version="1.1" viewBox="0 0 2.6458325 4.2333331"  >
                 <g transform="translate(-1.9573 -1.7103)" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".25264">
                 <path d="m2.6761 2.9492c-0.052012-0.7271 0.40878-0.5293 0.41222-0.3512 0.010576-0.37653 0.46565-0.38314 0.47805-0.060882 0.15578-0.13986 0.44197-0.21031 0.41188 0.37958 0.12427-0.1455 0.43742-0.1376 0.425 0.17759-0.016287 0.63349 0.25926 2.1454-1.0417 2.3024-1.218 0.011766-1.7225-2.5373-0.65079-1.1713z" stop-color="#000000" stroke-linejoin="round" style="paint-order:markers fill stroke"/>
                 <path d="m3.0864 2.6266 0.018971 1.1114"/>
@@ -416,7 +432,7 @@
                 </svg>                           
                 </a>
               <a id="select" class="button " >            
-                <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
+                <svg width="16" height="24" version="1.1" viewBox="0 0 2.6458325 4.2333331">
                   <g transform="translate(-1.9573 -1.7103)">
                   <g transform="matrix(.010602 0 0 .011747 1.3698 1.7103)">
                   <path d="m301.12 173.31-182.13-170.04c-3.242-3.038-7.891-4.049-12.105-2.639-4.211 1.404-7.317 5.006-8.086 9.389l-43.202 245.39c-0.854 4.847 1.306 9.717 5.464 12.341 4.152 2.625 9.49 2.465 13.491-0.378l59.968-42.699 47.219 127.45c2.127 6.336 8.984 9.765 15.332 7.648l62.087-20.771c6.342-2.116 9.771-8.984 7.648-15.327l-47.228-127.43 73.596-1.975c4.905-0.13 9.262-3.215 11.006-7.802 1.744-4.609 0.532-9.805-3.062-13.153zm-98.532-0.851c-3.842 0.109-7.4 2.004-9.599 5.163-2.205 3.147-2.778 7.146-1.561 10.781l48.557 131.47-39.111 13.075-48.56-131.46c-1.224-3.647-4.093-6.502-7.743-7.679-3.656-1.188-7.643-0.585-10.772 1.649l-49.216 35.027 34.206-194.28 144.19 134.64z"/>
@@ -425,7 +441,7 @@
                 </svg>
                 </a>
               <a id="draw" class="button " >            
-                <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 10 16" >
+                <svg width="16" height="24" version="1.1" viewBox="0 0 10 16" >
                   <g transform="matrix(.011538 0 0 .018363 -.35216 -1.8781)" stroke-dashoffset="33.335" stroke-linejoin="bevel">
                   <path transform="matrix(.70598 -.70823 .70598 .70823 0 0)" d="m-241.36 575.5 563.36-19.83c102.11-3.594 172.41 49.002 172.41 151.18 0 102.18-74.494 146.53-176.67 144.87l-547.27-8.9313c-102.17-1.6674-189.87-33.753-189.87-135.93 0-102.18 75.93-127.76 178.04-131.35z" stop-color="#000000" stroke-width="20.474" style="paint-order:markers stroke fill"/>
                   <path d="m139.57 728.3c35.877 91.535 59.954 110.45 145.61 130.41-53.353 53.353-185.34 153-238.69 99.652-53.353-53.353 39.728-176.71 93.08-230.06z" stop-color="#000000" stroke-width="15.118" style="paint-order:markers stroke fill"/>
@@ -433,8 +449,9 @@
                   </g>
                   </svg>
                 </a>
+
                 <a id="del" class="button " >            
-                  <svg width="2.6458mm" height="4.2333mm" version="1.1" viewBox="0 0 2.6458325 4.2333331">
+                  <svg width="16" height="24" version="1.1" viewBox="0 0 2.6458325 4.2333331">
                     <g transform="translate(-1.9573 -1.7103)">
                     <g transform="matrix(1 0 0 .78337 .037895 .78558)" stroke-dashoffset="33.335" stroke-linejoin="bevel" stroke-width="2.4966">
                     <rect transform="rotate(-30)" x=".49094" y="3.1173" width=".82885" height="3.8402" ry=".41442" stop-color="#000000" style="paint-order:markers stroke fill"/>
@@ -448,7 +465,7 @@
           </div>
           <div class="navbar-item">  
             <label class="checkbox">
-              <input type="checkbox" onclick="sti(this)">
+              <input id="fix" type="checkbox" onclick="sti(this)">
               Fixar
             </label>            
           </div>
@@ -461,8 +478,9 @@
 </div>
 <script src="vilaboard.min.js"></script>
 <script>
+    sti($("fix"));
     function sti(c) { 
-      const nav = document.getElementById('mn'); 
+      const nav = $('mn'); 
       if (c.checked) {       
       nav.classList.remove('min'); 
     } else {
