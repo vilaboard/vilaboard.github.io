@@ -24,7 +24,7 @@
     <meta property="twitter:image" content="https://www.vilaboard.com/imgs/screenshot.png">
     <script src="es5/tex-svg.js" id="MathJax-script"></script>
     <script src="fabric.min.js"></script>
-   
+    
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4FJBVX9893"></script>
     <script>
       var $ = function(id){return document.getElementById(id)};
@@ -34,7 +34,8 @@
       gtag('js', new Date());
       gtag('config', 'G-4FJBVX9893', { 'anonymize_ip': true });
     </script>
-    <link rel="stylesheet" href="/bulma.min.css">    
+    <link rel="stylesheet" href="/bulma.min.css">
+    
   <style>
     @font-face {
       font-family: ComingSoon;
@@ -374,9 +375,10 @@
               Arquivo
             </a>
             <div class="navbar-dropdown is-boxed p-2">
-              <a id="new" class="navbar-item">Novo</a>              
+              <a target="_blank" id="new" class="navbar-item">New</a>     
+              <div class="navbar-divider"></div>         
               <div class="">
-                <label class="">
+                <label class="file-label">
                   <input id="abr" class="file-input" type="file" name="resume" accept=".vlb">
                   <span class="navbar-item file-cta">
                     <span class="file-label">
@@ -636,8 +638,7 @@
 </div>
 <span id="sr" style="width:1px; height: 1px;"></span>
 <script src="vilaboard.min.js"></script>
-<script>
-  
+<script>  
     sti($("fix"));
     function sti(c) { 
       const nav = $('mn'); 
