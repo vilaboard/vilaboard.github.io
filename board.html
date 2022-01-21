@@ -23,11 +23,12 @@
     <meta property="twitter:description" content="Draw, write, move, scale your ideias on VilaBoard. Perfect to teaching, YouTube and presentations.">
     <meta property="twitter:image" content="https://www.vilaboard.com/imgs/screenshot.png">
     <script src="es5/tex-svg.js" id="MathJax-script"></script>
-    <script src="fabric.min.js"></script>
+    <script src="4.1.0/fabric.min.js"></script>
     
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4FJBVX9893"></script>
     <script>
       var $ = function(id){return document.getElementById(id)};
+      function s(id) { $(id).classList.toggle('is-hidden');  }
       const up = new URLSearchParams(window.location.search);
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -232,6 +233,48 @@
       transform: scale(0.8);
       transition: scale 1s;
     }
+    .calc {
+      z-index: 99;
+      position: absolute;
+      max-width: 200px;
+      padding: 0.5%;
+      display: block;
+      top: 10%;
+      left: 10%;
+      background-color: white;
+    }
+    .calc #exprout {
+      overflow-y: auto;
+      overflow-x: auto;
+      padding: 0.4%;
+      max-height: 20em;
+    }
+
+    .calc #exprout span {
+      display: block;
+      padding-left: 1em;
+      padding-right: 1em;
+      border-bottom: 1px dotted #ccc;
+      border-right: 1px solid #555;
+      border-left: 1px solid #555;
+      cursor: pointer;
+    }
+    .calc #exprout span:hover {
+      font-weight: bolder;
+    }
+    .calc #exprout span:last-child {
+      margin-bottom: 32px;
+    }
+    .calc #drag {
+      min-height: 1em;
+      display: block;
+      background-color: #FF2E62;
+      cursor: move;
+      color: white;
+      font-weight: bolder;
+      padding: 1%;
+      text-align: center;
+    }
 
     .cs {
       font-family: ComingSoon;
@@ -361,7 +404,7 @@
         </g>
         </g>
         </svg>        
-        <div class="navbar-burger" onclick="s()">
+        <div class="navbar-burger" onclick="s('nav')">
           <span></span>
           <span></span>
           <span></span>
@@ -581,10 +624,20 @@
                   </label>
               <label>
                 <input  type="radio" name="tool" value="5">
+                <a id="eraser" class="navbar-link is-arrowless button" >    
+                  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 8.467 8.467"><path d="M5.648 1.121l1.949 2.395-2.547 2.56-.754-.926-1.195-1.469 2.547-2.56z"/><g fill="none" stroke="#000"><path d="M2.51 7.115l3.735-.004" stroke-width=".278" stroke-linecap="round"/><path d="M5.703 1.188l1.774 2.18c.052.064-.017.225-.154.363L4.036 7.036l-1.533.039-1.195-1.469c-.052-.064.017-.225.154-.363l3.901-3.921c.137-.138.289-.197.34-.134z" stroke-width=".306" stroke-linejoin="round"/></g></svg>        
+                </a>
+                </label>
+                <input  type="radio" name="tool" value="6">
                 <a id="del" class="navbar-link is-arrowless button" >            
                   <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 8.467 8.467" ><path d="M14.552 13.566l2.037-2.256"/><rect width="1.05" height="7.607" x="5.616" y="-1.546" ry=".892" transform="matrix(.911143 .41209 -.593287 .804991 0 0)" rx=".498" paint-order="markers stroke fill"/><rect width="1.05" height="7.607" x="-1.149" y="-10.016" ry=".892" transform="matrix(-.633869 .77344 -.624008 -.781418 0 0)" rx=".498" paint-order="markers stroke fill"/></svg>
                 </a>
                 </label>
+                <label>
+                  <a id="calc" class="navbar-link is-arrowless button" onclick="s('expr')">   
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 8.467 8.467"><style><![CDATA[.B{stroke:#000}.C{stroke-linejoin:round}.D{stroke-width:.187}.E{fill-opacity:.525}.F{fill-opacity:.435}]]></style><g fill="none" class="B C"><rect width="5.157" height="6.941" x="1.753" y=".744" ry=".39" rx=".245" stroke-width=".4"/><rect width="4.146" height="2.134" x="2.273" y="1.419" ry=".12" rx=".197" class="D"/></g><g fill="#ff2d61" class="B C E"><rect width="1.039" height="1.042" x="2.493" y="4.215" ry=".059" rx=".049" class="D"/><rect width="1.039" height="1.042" x="3.872" y="5.762" ry=".059" rx=".049" class="D"/><rect width="1.045" height="2.591" x="5.249" y="4.211" ry=".146" rx=".05" stroke-width=".192"/></g><g fill="#f2d618" class="D B C F"><rect width="1.039" height="1.042" x="3.872" y="4.215" ry=".059" rx=".049"/><rect width="1.039" height="1.042" x="2.493" y="5.762" ry=".059" rx=".049"/></g></svg>
+                  </a>
+                  </label>
             </div>
 
           </div>
@@ -636,6 +689,14 @@
     <a  id="kn" class="white"></a>    
   </div>              
 </div>
+<div id="expr" class="calc box is-hidden">
+  <span id="drag" class="tag is-danger is-small">
+    CALCULATOR
+    <button class="delete" onclick="s('expr')"></button>
+  </span>
+  <input onfocus="document.BlockKey=true" onblur="document.BlockKey=false" id="exprin" class="input mt-2 mb-2 is-info" type="text" placeholder="expressão...">
+  <div id="exprout"></div>
+</div>  
 <span id="sr" style="width:1px; height: 1px;"></span>
 <script src="vilaboard.min.js"></script>
 <script>  
@@ -648,7 +709,6 @@
       nav.classList.add('min'); 
     }
   }
-    function s() { const nav = document.getElementById('nav'); nav.classList.toggle('is-active');}
 </script>
 
   </body>
