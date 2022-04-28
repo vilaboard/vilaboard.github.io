@@ -391,7 +391,7 @@
   </head>
   <body >
     <div class="h ">
-    <form name="toolbarForm">
+    <form name="toolbarForm" action="javascript:void(0);">
     <nav id="mn" class="navbar is-transparent min ">
       <div class="navbar-brand pt-1 pl-5 mr-5">
         <svg width="120px" height="30px" version="1.1" viewBox="0 0 90.791908 19.294567">
@@ -680,7 +680,7 @@
       <svg  version="1.1" x="0px" y="0px" viewBox="0 0 15.999997 15.999999" width="16" height="16">
         <g fill="white" transform="matrix(0.01838235,0,0,0.01632653,-1.1911763,-0.1632653)"><path d="M 64.8,554.8 167.6,451.9 427.3,711.7 V 10 H 572.7 V 711.7 L 832.4,451.9 935.2,554.8 500.1,990 Z" /></g>
       </svg>
-    </a>
+    </a> 
     <a  class="black"  obj="sendup" value="">
       <svg  version="1.1" x="0px" y="0px" viewBox="0 0 15.999997 15.999999" width="16" height="16">
         <g fill="white" transform="rotate(180,8,8) matrix(0.01838235,0,0,0.01632653,-1.1911763,-0.1632653)"><path d="M 64.8,554.8 167.6,451.9 427.3,711.7 V 10 H 572.7 V 711.7 L 832.4,451.9 935.2,554.8 500.1,990 Z" /></g>
@@ -695,6 +695,7 @@
     <button class="delete" onclick="s('expr')"></button>
   </span>
   <input onfocus="document.BlockKey=true" onblur="document.BlockKey=false" id="exprin" class="input mt-2 mb-2 is-info" type="text" placeholder="expression ...">
+  <div id="ans"></div>
   <div id="exprout"></div>
 </div>  
 <span id="sr" style="width:1px; height: 1px;"></span>
