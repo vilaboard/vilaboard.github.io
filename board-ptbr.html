@@ -339,6 +339,44 @@
         opacity: 1.0;
     }
 }
+@media only screen and (max-width: 1023px) {
+    .min {
+      transform: none !important;
+      opacity: 1 !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+      transition: none !important;
+    }
+    .navbar-menu {
+      display: flex !important;
+      flex-wrap: wrap;
+      max-height: none !important;
+      overflow: visible !important;
+    }
+    .navbar-burger {
+      display: none !important;
+    }
+    .navbar {
+      min-height: auto !important;
+      max-height: none !important;
+      height: auto !important;
+      flex-wrap: wrap;
+    }
+    .h {
+      position: relative !important;
+      height: auto !important;
+    }
+    #teach {
+      margin-top: 0;
+    }
+    .navbar-item {
+      padding: 0.15rem 0.3rem !important;
+    }
+    .navbar-dropdown {
+      max-height: 60vh;
+      overflow-y: auto;
+    }
+}
     .button, .file-cta, .file-name, .input, .pagination-ellipsis, .pagination-link, .pagination-next, .pagination-previous, .select select, .textarea {
         -moz-appearance: none;
         -webkit-appearance: none;
@@ -709,6 +747,21 @@
       nav.classList.add('min'); 
     }
   }
+  window.addEventListener('message', function(e) {
+    if (!e.data) return;
+    if (typeof e.data.tool !== 'undefined') {
+      toolChange(parseInt(e.data.tool, 10));
+    }
+    if (typeof e.data.fontFamily !== 'undefined') {
+      setAtt(null, 'fontFamily', e.data.fontFamily);
+    }
+    if (typeof e.data.fill !== 'undefined') {
+      setAtt(null, 'fill', e.data.fill);
+    }
+    if (typeof e.data.strokeWidth !== 'undefined') {
+      setAtt(null, 'strokeWidth', e.data.strokeWidth);
+    }
+  });
 </script>
 
   </body>
