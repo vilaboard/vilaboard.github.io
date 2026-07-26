@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Image Compressor | VilaBoard</title>
+  <meta name="description" content="Compress JPG, PNG, WEBP and GIF images right in the browser. Reduce size without losing quality.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.vilaboard.com/en/image-compressor">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Online Image Compressor | VilaBoard">
+  <meta property="og:description" content="Compress JPG, PNG, WEBP and GIF images right in the browser. Reduce size without losing quality.">
+  <meta property="og:url" content="https://www.vilaboard.com/en/image-compressor">
+  <meta property="og:site_name" content="VilaBoard">
+  <meta property="og:locale" content="en_US">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Online Image Compressor | VilaBoard">
+  <meta name="twitter:description" content="Compress JPG, PNG, WEBP and GIF images right in the browser. Reduce size without losing quality.">
+
+  <link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-compressor">
+  <link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-compressor">
+  <link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-compressor">
+
+  <meta name="theme-color" content="#6366f1">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <script>
+    (function() {
+      var pathSegmentsToKeep = 2;
+      var l = window.location;
+      if (l.search && l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function(s) {
+          return s.replace(/~and~/g, '&');
+        }).join('?');
+        window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    })();
+  </script>
+</head>
+<body>
+  <div id="app"></div>
+  <script type="module" src="/assets/index.js"></script>
+</body>
+</html>

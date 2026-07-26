@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Editor de Imagens Online | VilaBoard</title>
+  <meta name="description" content="Recorte, redimensione e aplique filtros nas suas imagens direto no navegador.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.vilaboard.com/pt/image-editor">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Editor de Imagens Online | VilaBoard">
+  <meta property="og:description" content="Recorte, redimensione e aplique filtros nas suas imagens direto no navegador.">
+  <meta property="og:url" content="https://www.vilaboard.com/pt/image-editor">
+  <meta property="og:site_name" content="VilaBoard">
+  <meta property="og:locale" content="pt_BR">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Editor de Imagens Online | VilaBoard">
+  <meta name="twitter:description" content="Recorte, redimensione e aplique filtros nas suas imagens direto no navegador.">
+
+  <link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-editor">
+  <link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-editor">
+  <link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-editor">
+
+  <meta name="theme-color" content="#6366f1">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <script>
+    (function() {
+      var pathSegmentsToKeep = 2;
+      var l = window.location;
+      if (l.search && l.search[1] === '/') {
+        var decoded = l.search.slice(1).split('&').map(function(s) {
+          return s.replace(/~and~/g, '&');
+        }).join('?');
+        window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+        );
+      }
+    })();
+  </script>
+</head>
+<body>
+  <div id="app"></div>
+  <script type="module" src="/assets/index.js"></script>
+</body>
+</html>
