@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /audio/
+Disallow: /backgrounds/
+Disallow: /brush/
+Disallow: /es5/
+Disallow: /4.1.0/
+
+Sitemap: https://www.vilaboard.com/sitemap.xml
