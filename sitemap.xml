@@ -213,6 +213,76 @@
     </url>
 
     <url>
+      <loc>https://www.vilaboard.com/pt/senha-generator</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/senha-generator"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/senha-generator"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/senha-generator"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/contador-texto</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/contador-texto"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/contador-texto"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/contador-texto"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/markdown-editor</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/markdown-editor"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/markdown-editor"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/markdown-editor"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/color-picker</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/color-picker"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/color-picker"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/color-picker"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/cronometro</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cronometro"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cronometro"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cronometro"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/timer-cozinha</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/timer-cozinha"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/timer-cozinha"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/timer-cozinha"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/calculadora-cientifica</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-cientifica"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-cientifica"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-cientifica"/>
+    </url>
+
+    <url>
       <loc>https://www.vilaboard.com/pt/about</loc>
       <lastmod>2026-07-27</lastmod>
       <changefreq>yearly</changefreq>
