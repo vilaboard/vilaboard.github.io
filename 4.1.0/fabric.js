@@ -2908,7 +2908,7 @@ fabric.CommonMethods = {
         parentMethod = superClassMethod;
         break;
       }
-      // eslint-disable-next-line
+       
       _this = _this.constructor.superclass.prototype;
     }
 
@@ -4894,7 +4894,7 @@ fabric.warn = console.warn;
 
       var ownAttributes = attributes.reduce(function(memo, attr) {
         value = element.getAttribute(attr);
-        if (value) { // eslint-disable-line
+        if (value) {  
           memo[attr] = value;
         }
         return memo;
@@ -5027,7 +5027,7 @@ fabric.warn = console.warn;
         }
         rules = styleContents.match(/[^{]*\{[\s\S]*?\}/g);
         rules = rules.map(function(rule) { return rule.trim(); });
-        // eslint-disable-next-line no-loop-func
+         
         rules.forEach(function(rule) {
 
           var match = rule.match(/([\s\S]*?)\s*\{([^}]*)\}/),
@@ -5254,7 +5254,7 @@ fabric.ElementsParser = function(elements, callback, options, reviver, parsingOp
   proto.checkIfDone = function() {
     if (--this.numElements === 0) {
       this.instances = this.instances.filter(function(el) {
-        // eslint-disable-next-line no-eq-null, eqeqeq
+         
         return el != null;
       });
       this.callback(this.instances, this.elements);
@@ -6051,7 +6051,7 @@ fabric.ElementsParser = function(elements, callback, options, reviver, parsingOp
    * @field
    * @memberOf fabric.Color
    */
-  // eslint-disable-next-line max-len
+   
   fabric.Color.reRGBa = /^rgba?\(\s*(\d{1,3}(?:\.\d+)?\%?)\s*,\s*(\d{1,3}(?:\.\d+)?\%?)\s*,\s*(\d{1,3}(?:\.\d+)?\%?)\s*(?:\s*,\s*((?:\d*\.?\d+)?)\s*)?\)$/i;
 
   /**
@@ -22267,7 +22267,7 @@ fabric.util.object.extend(fabric.StaticCanvas.prototype, /** @lends fabric.Stati
       var obj = typeof lineIndex === 'undefined' ? this.styles : { line: this.styles[lineIndex] };
       for (var p1 in obj) {
         for (var p2 in obj[p1]) {
-          // eslint-disable-next-line no-unused-vars
+           
           for (var p3 in obj[p1][p2]) {
             return false;
           }
@@ -22291,9 +22291,9 @@ fabric.util.object.extend(fabric.StaticCanvas.prototype, /** @lends fabric.Stati
         return false;
       }
       var obj = typeof lineIndex === 'undefined' ? this.styles : { 0: this.styles[lineIndex] };
-      // eslint-disable-next-line
+       
       for (var p1 in obj) {
-        // eslint-disable-next-line
+         
         for (var p2 in obj[p1]) {
           if (typeof obj[p1][p2][property] !== 'undefined') {
             return true;
@@ -22319,10 +22319,10 @@ fabric.util.object.extend(fabric.StaticCanvas.prototype, /** @lends fabric.Stati
       }
       var obj = this.styles, stylesCount = 0, letterCount, stylePropertyValue,
           allStyleObjectPropertiesMatch = true, graphemeCount = 0, styleObject;
-      // eslint-disable-next-line
+       
       for (var p1 in obj) {
         letterCount = 0;
-        // eslint-disable-next-line
+         
         for (var p2 in obj[p1]) {
           var styleObject = obj[p1][p2],
               stylePropertyHasBeenSet = styleObject.hasOwnProperty(property);
@@ -25424,7 +25424,7 @@ fabric.util.object.extend(fabric.IText.prototype, /** @lends fabric.IText.protot
       for (var p1 in obj) {
         for (var p2 in obj[p1]) {
           if (p2 >= offset && (!shouldLimit || p2 < nextOffset)) {
-            // eslint-disable-next-line no-unused-vars
+             
             for (var p3 in obj[p1][p2]) {
               return false;
             }
