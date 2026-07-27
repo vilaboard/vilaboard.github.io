@@ -283,6 +283,66 @@
     </url>
 
     <url>
+      <loc>https://www.vilaboard.com/pt/churrasco</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/churrasco"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/churrasco"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/churrasco"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/gorjeta</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gorjeta"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gorjeta"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gorjeta"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/imc</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/imc"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/imc"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/imc"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/agua</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agua"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agua"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agua"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/datas</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/datas"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/datas"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/datas"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/sorteio</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/sorteio"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/sorteio"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/sorteio"/>
+    </url>
+
+    <url>
       <loc>https://www.vilaboard.com/pt/about</loc>
       <lastmod>2026-07-27</lastmod>
       <changefreq>yearly</changefreq>
