@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <title>Redirecting...</title>
   <script>
-    var pathSegmentsToKeep = 2;
+    // GitHub Pages SPA redirect: preserve the path and forward to index.html
+    var pathSegmentsToKeep = 0;
     var l = window.location;
     l.replace(
       l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
