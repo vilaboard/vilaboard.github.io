@@ -353,6 +353,126 @@
     </url>
 
     <url>
+      <loc>https://www.vilaboard.com/pt/pdf-tools</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pdf-tools"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pdf-tools"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pdf-tools"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/audio-tools</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/audio-tools"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/audio-tools"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/audio-tools"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/base64</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/base64"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/base64"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/base64"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jwt-decoder</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jwt-decoder"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jwt-decoder"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jwt-decoder"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/hash-generator</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/hash-generator"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/hash-generator"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/hash-generator"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/lorem-ipsum</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lorem-ipsum"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lorem-ipsum"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lorem-ipsum"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/uuid-generator</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/uuid-generator"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/uuid-generator"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/uuid-generator"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/regex-tester</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/regex-tester"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/regex-tester"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/regex-tester"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/csv-json</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/csv-json"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/csv-json"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/csv-json"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/calculadora-tinta</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-tinta"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-tinta"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-tinta"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/juros-compostos</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/juros-compostos"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/juros-compostos"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/juros-compostos"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/gradiente-css</loc>
+      <lastmod>2026-07-27</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gradiente-css"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gradiente-css"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gradiente-css"/>
+    </url>
+
+    <url>
       <loc>https://www.vilaboard.com/pt/about</loc>
       <lastmod>2026-07-27</lastmod>
       <changefreq>yearly</changefreq>
