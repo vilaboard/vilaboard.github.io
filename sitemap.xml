@@ -563,6 +563,186 @@
     </url>
 
     <url>
+      <loc>https://www.vilaboard.com/pt/jogos/velha</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/velha"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/velha"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/velha"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/forca</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/forca"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/forca"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/forca"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/memoria</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/pedra</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pedra"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pedra"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pedra"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/21</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/21"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/21"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/21"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/paciencia</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/paciencia"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/paciencia"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/paciencia"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/memoria-cartas</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria-cartas"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria-cartas"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria-cartas"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/buraco</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/buraco"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/buraco"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/buraco"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/poker</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/poker"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/poker"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/poker"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/snake</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/snake"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/snake"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/snake"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/pong</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pong"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pong"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pong"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/cube</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/cube"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/cube"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/cube"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/minado</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/minado"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/minado"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/minado"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/sudoku</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/sudoku"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/sudoku"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/sudoku"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/2048</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/2048"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/2048"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/2048"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/quebra</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quebra"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quebra"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quebra"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/quiz</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quiz"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quiz"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quiz"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/adivinha</loc>
+      <lastmod>2026-07-31</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/adivinha"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/adivinha"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/adivinha"/>
+    </url>
+
+    <url>
       <loc>https://www.vilaboard.com/pt/about</loc>
       <lastmod>2026-07-31</lastmod>
       <changefreq>yearly</changefreq>
