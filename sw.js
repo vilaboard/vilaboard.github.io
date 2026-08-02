@@ -1,4 +1,4 @@
-const CACHE = 'vilaboard-v1'
+const CACHE = 'vilaboard-v2'
 
 self.addEventListener('install', () => {
   self.skipWaiting()
@@ -20,7 +20,7 @@ self.addEventListener('fetch', (e) => {
 
   if (req.mode === 'navigate') {
     e.respondWith(
-      fetch(req)
+      fetch(req, { cache: 'no-cache' })
         .then((res) => {
           const copy = res.clone()
           caches.open(CACHE).then((c) => c.put(req, copy))
