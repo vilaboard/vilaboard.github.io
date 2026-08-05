@@ -663,6 +663,46 @@
     </url>
 
     <url>
+      <loc>https://www.vilaboard.com/pt/jogos/truco</loc>
+      <lastmod>2026-08-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/truco"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/truco"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/truco"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/domino</loc>
+      <lastmod>2026-08-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/domino"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/domino"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/domino"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/termo</loc>
+      <lastmod>2026-08-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/termo"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/termo"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/termo"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/tetris</loc>
+      <lastmod>2026-08-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/tetris"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/tetris"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/tetris"/>
+    </url>
+
+    <url>
       <loc>https://www.vilaboard.com/pt/jogos/merchant</loc>
       <lastmod>2026-08-05</lastmod>
       <changefreq>monthly</changefreq>
