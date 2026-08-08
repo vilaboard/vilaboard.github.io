@@ -3,872 +3,1742 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
     <url>
-      <loc>https://www.vilaboard.com/pt</loc>
+      <loc>https://www.vilaboard.com/pt/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/blackboard</loc>
+      <loc>https://www.vilaboard.com/en/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/blackboard/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/blackboard"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/blackboard"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/blackboard"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/blackboard/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/blackboard/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/blackboard/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/visao</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/visao"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/visao"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/visao"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/orcamento</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/orcamento"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/orcamento"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/orcamento"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/converters</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/converters"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/converters"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/converters"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/image-editor</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-editor"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-editor"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-editor"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/obd2</loc>
+      <loc>https://www.vilaboard.com/en/blackboard/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/obd2"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/obd2"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/obd2"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/blackboard/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/blackboard/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/blackboard/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/qr-code</loc>
+      <loc>https://www.vilaboard.com/pt/visao/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/qr-code"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/qr-code"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/qr-code"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/visao/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/visao/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/visao/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/json-formatter</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/json-formatter"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/json-formatter"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/json-formatter"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/pomodoro</loc>
+      <loc>https://www.vilaboard.com/en/visao/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pomodoro"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pomodoro"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pomodoro"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/visao/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/visao/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/visao/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/emprestimo</loc>
+      <loc>https://www.vilaboard.com/pt/orcamento/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/emprestimo"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/emprestimo"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/emprestimo"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/orcamento/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/orcamento/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/orcamento/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/image-compressor</loc>
+      <loc>https://www.vilaboard.com/en/orcamento/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-compressor"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-compressor"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-compressor"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/orcamento/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/orcamento/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/orcamento/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/background-remover</loc>
+      <loc>https://www.vilaboard.com/pt/converters/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/background-remover"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/background-remover"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/background-remover"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/converters/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/converters/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/converters/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/kanban</loc>
+      <loc>https://www.vilaboard.com/en/converters/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/kanban"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/kanban"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/kanban"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/converters/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/converters/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/converters/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/vin</loc>
+      <loc>https://www.vilaboard.com/pt/image-editor/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vin"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vin"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vin"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-editor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-editor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-editor/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/lista-compras</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-compras"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-compras"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-compras"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/lista-tarefas</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-tarefas"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-tarefas"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-tarefas"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/lista-convidados</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-convidados"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-convidados"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-convidados"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/lista-materiais</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-materiais"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-materiais"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-materiais"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/lista-presentes</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-presentes"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-presentes"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-presentes"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/combustivel</loc>
+      <loc>https://www.vilaboard.com/en/image-editor/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/combustivel"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/combustivel"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/combustivel"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-editor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-editor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-editor/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/senha-generator</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/senha-generator"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/senha-generator"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/senha-generator"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/contador-texto</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/contador-texto"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/contador-texto"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/contador-texto"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/markdown-editor</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/markdown-editor"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/markdown-editor"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/markdown-editor"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/color-picker</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/color-picker"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/color-picker"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/color-picker"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/cronometro</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cronometro"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cronometro"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cronometro"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/timer-cozinha</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/timer-cozinha"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/timer-cozinha"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/timer-cozinha"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/calculadora-cientifica</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-cientifica"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-cientifica"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-cientifica"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/churrasco</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/churrasco"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/churrasco"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/churrasco"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/gorjeta</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gorjeta"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gorjeta"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gorjeta"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/imc</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/imc"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/imc"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/imc"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/agua</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agua"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agua"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agua"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/datas</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/datas"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/datas"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/datas"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/sorteio</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/sorteio"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/sorteio"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/sorteio"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/seal</loc>
+      <loc>https://www.vilaboard.com/pt/obd2/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/seal"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/seal"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/seal"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/obd2/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/obd2/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/obd2/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/pdf-tools</loc>
+      <loc>https://www.vilaboard.com/en/obd2/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pdf-tools"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pdf-tools"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pdf-tools"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/obd2/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/obd2/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/obd2/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/audio-tools</loc>
+      <loc>https://www.vilaboard.com/pt/qr-code/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/audio-tools"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/audio-tools"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/audio-tools"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/qr-code/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/qr-code/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/qr-code/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/music-tools</loc>
+      <loc>https://www.vilaboard.com/en/qr-code/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/music-tools"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/music-tools"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/music-tools"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/qr-code/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/qr-code/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/qr-code/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/base64</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/base64"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/base64"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/base64"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/jwt-decoder</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jwt-decoder"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jwt-decoder"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jwt-decoder"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/hash-generator</loc>
-      <lastmod>2026-08-08</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/hash-generator"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/hash-generator"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/hash-generator"/>
-    </url>
-
-    <url>
-      <loc>https://www.vilaboard.com/pt/lorem-ipsum</loc>
+      <loc>https://www.vilaboard.com/pt/json-formatter/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lorem-ipsum"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lorem-ipsum"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lorem-ipsum"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/json-formatter/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/json-formatter/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/json-formatter/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/uuid-generator</loc>
+      <loc>https://www.vilaboard.com/en/json-formatter/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/uuid-generator"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/uuid-generator"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/uuid-generator"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/json-formatter/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/json-formatter/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/json-formatter/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/regex-tester</loc>
+      <loc>https://www.vilaboard.com/pt/pomodoro/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/regex-tester"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/regex-tester"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/regex-tester"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pomodoro/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pomodoro/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pomodoro/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/csv-json</loc>
+      <loc>https://www.vilaboard.com/en/pomodoro/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/csv-json"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/csv-json"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/csv-json"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pomodoro/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pomodoro/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pomodoro/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/calculadora-tinta</loc>
+      <loc>https://www.vilaboard.com/pt/emprestimo/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-tinta"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-tinta"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-tinta"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/emprestimo/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/emprestimo/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/emprestimo/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/plano-cortes</loc>
+      <loc>https://www.vilaboard.com/en/emprestimo/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/plano-cortes"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/plano-cortes"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/plano-cortes"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/emprestimo/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/emprestimo/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/emprestimo/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/juros-compostos</loc>
+      <loc>https://www.vilaboard.com/pt/image-compressor/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/juros-compostos"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/juros-compostos"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/juros-compostos"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-compressor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-compressor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-compressor/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/gradiente-css</loc>
+      <loc>https://www.vilaboard.com/en/image-compressor/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/image-compressor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/image-compressor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/image-compressor/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/background-remover/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/background-remover/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/background-remover/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/background-remover/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/background-remover/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/background-remover/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/background-remover/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/background-remover/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/kanban/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/kanban/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/kanban/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/kanban/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/kanban/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/kanban/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/kanban/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/kanban/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/vin/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vin/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vin/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vin/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/vin/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vin/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vin/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vin/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/lista-compras/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gradiente-css"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gradiente-css"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gradiente-css"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-compras/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-compras/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-compras/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/pesquisa-operacional</loc>
+      <loc>https://www.vilaboard.com/en/lista-compras/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pesquisa-operacional"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pesquisa-operacional"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pesquisa-operacional"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-compras/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-compras/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-compras/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/engenharia</loc>
+      <loc>https://www.vilaboard.com/pt/lista-tarefas/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/engenharia"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/engenharia"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/engenharia"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-tarefas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-tarefas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-tarefas/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/agricultura</loc>
+      <loc>https://www.vilaboard.com/en/lista-tarefas/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agricultura"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agricultura"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agricultura"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-tarefas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-tarefas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-tarefas/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/saude</loc>
+      <loc>https://www.vilaboard.com/pt/lista-convidados/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-convidados/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-convidados/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-convidados/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/lista-convidados/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-convidados/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-convidados/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-convidados/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/lista-materiais/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-materiais/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-materiais/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-materiais/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/lista-materiais/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-materiais/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-materiais/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-materiais/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/lista-presentes/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-presentes/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-presentes/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-presentes/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/lista-presentes/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lista-presentes/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lista-presentes/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lista-presentes/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/combustivel/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/saude"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/saude"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/saude"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/combustivel/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/combustivel/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/combustivel/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/vida-pratica</loc>
+      <loc>https://www.vilaboard.com/en/combustivel/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/combustivel/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/combustivel/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/combustivel/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/senha-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/senha-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/senha-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/senha-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/senha-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/senha-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/senha-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/senha-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/contador-texto/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/contador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/contador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/contador-texto/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/contador-texto/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/contador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/contador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/contador-texto/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/markdown-editor/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/markdown-editor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/markdown-editor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/markdown-editor/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/markdown-editor/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/markdown-editor/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/markdown-editor/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/markdown-editor/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/color-picker/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/color-picker/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/color-picker/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/color-picker/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/color-picker/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/color-picker/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/color-picker/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/color-picker/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/cronometro/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cronometro/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cronometro/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cronometro/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/cronometro/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cronometro/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cronometro/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cronometro/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/timer-cozinha/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/timer-cozinha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/timer-cozinha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/timer-cozinha/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/timer-cozinha/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/timer-cozinha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/timer-cozinha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/timer-cozinha/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/calculadora-cientifica/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-cientifica/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-cientifica/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-cientifica/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/calculadora-cientifica/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-cientifica/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-cientifica/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-cientifica/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/churrasco/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/churrasco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/churrasco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/churrasco/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/churrasco/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/churrasco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/churrasco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/churrasco/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/gorjeta/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gorjeta/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gorjeta/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gorjeta/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/gorjeta/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gorjeta/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gorjeta/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gorjeta/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/imc/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/imc/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/imc/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/imc/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/imc/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/imc/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/imc/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/imc/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/agua/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agua/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agua/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agua/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/agua/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agua/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agua/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agua/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/datas/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/datas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/datas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/datas/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/datas/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/datas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/datas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/datas/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/sorteio/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/sorteio/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/sorteio/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/sorteio/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/sorteio/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/sorteio/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/sorteio/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/sorteio/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/seal/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vida-pratica"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vida-pratica"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vida-pratica"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/seal/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/seal/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/seal/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/mecanica-e-oficina</loc>
+      <loc>https://www.vilaboard.com/en/seal/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/seal/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/seal/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/seal/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/pdf-tools/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pdf-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pdf-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pdf-tools/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/pdf-tools/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pdf-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pdf-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pdf-tools/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/audio-tools/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/mecanica-e-oficina"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/mecanica-e-oficina"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/mecanica-e-oficina"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/audio-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/audio-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/audio-tools/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/divertido</loc>
+      <loc>https://www.vilaboard.com/en/audio-tools/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/audio-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/audio-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/audio-tools/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/music-tools/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/music-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/music-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/music-tools/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/music-tools/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/music-tools/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/music-tools/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/music-tools/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/base64/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/base64/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/base64/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/base64/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/base64/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/base64/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/base64/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/base64/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jwt-decoder/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jwt-decoder/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jwt-decoder/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jwt-decoder/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jwt-decoder/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jwt-decoder/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jwt-decoder/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jwt-decoder/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/hash-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/hash-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/hash-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/hash-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/hash-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/hash-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/hash-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/hash-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/lorem-ipsum/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lorem-ipsum/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lorem-ipsum/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lorem-ipsum/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/lorem-ipsum/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/lorem-ipsum/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/lorem-ipsum/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/lorem-ipsum/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/uuid-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/uuid-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/uuid-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/uuid-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/uuid-generator/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/uuid-generator/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/uuid-generator/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/uuid-generator/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/regex-tester/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/regex-tester/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/regex-tester/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/regex-tester/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/regex-tester/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/regex-tester/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/regex-tester/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/regex-tester/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/csv-json/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/csv-json/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/csv-json/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/csv-json/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/csv-json/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/csv-json/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/csv-json/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/csv-json/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/calculadora-tinta/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-tinta/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-tinta/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-tinta/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/calculadora-tinta/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/calculadora-tinta/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/calculadora-tinta/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/calculadora-tinta/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/plano-cortes/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/plano-cortes/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/plano-cortes/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/plano-cortes/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/plano-cortes/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/plano-cortes/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/plano-cortes/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/plano-cortes/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/juros-compostos/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/juros-compostos/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/juros-compostos/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/juros-compostos/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/juros-compostos/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/juros-compostos/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/juros-compostos/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/juros-compostos/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/gradiente-css/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gradiente-css/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gradiente-css/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gradiente-css/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/gradiente-css/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/gradiente-css/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/gradiente-css/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/gradiente-css/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/pesquisa-operacional/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pesquisa-operacional/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pesquisa-operacional/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pesquisa-operacional/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/pesquisa-operacional/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/pesquisa-operacional/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/pesquisa-operacional/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/pesquisa-operacional/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/engenharia/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/engenharia/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/engenharia/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/engenharia/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/engenharia/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/engenharia/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/engenharia/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/engenharia/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/agricultura/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agricultura/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agricultura/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agricultura/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/agricultura/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/agricultura/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/agricultura/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/agricultura/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/saude/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/saude/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/saude/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/saude/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/saude/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/saude/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/saude/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/saude/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/vida-pratica/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vida-pratica/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vida-pratica/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vida-pratica/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/vida-pratica/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.9</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/vida-pratica/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/vida-pratica/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/vida-pratica/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/mecanica-e-oficina/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/mecanica-e-oficina/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/mecanica-e-oficina/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/mecanica-e-oficina/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/mecanica-e-oficina/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/mecanica-e-oficina/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/mecanica-e-oficina/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/mecanica-e-oficina/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/divertido/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/divertido"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/divertido"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/divertido"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/divertido/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/divertido/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/divertido/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/concurseiros</loc>
+      <loc>https://www.vilaboard.com/en/divertido/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/divertido/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/divertido/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/divertido/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/concurseiros/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/concurseiros"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/concurseiros"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/concurseiros"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/concurseiros/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/concurseiros/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/concurseiros/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos</loc>
+      <loc>https://www.vilaboard.com/en/concurseiros/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/concurseiros/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/concurseiros/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/concurseiros/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/velha</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/velha/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/velha"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/velha"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/velha"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/velha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/velha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/velha/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/forca</loc>
+      <loc>https://www.vilaboard.com/en/jogos/velha/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/forca"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/forca"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/forca"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/velha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/velha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/velha/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/memoria</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/forca/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/forca/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/forca/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/forca/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/pedra</loc>
+      <loc>https://www.vilaboard.com/en/jogos/forca/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pedra"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pedra"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pedra"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/forca/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/forca/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/forca/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/21</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/memoria/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/21"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/21"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/21"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/paciencia</loc>
+      <loc>https://www.vilaboard.com/en/jogos/memoria/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/paciencia"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/paciencia"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/paciencia"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/memoria-cartas</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/pedra/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria-cartas"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria-cartas"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria-cartas"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pedra/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pedra/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pedra/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/buraco</loc>
+      <loc>https://www.vilaboard.com/en/jogos/pedra/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/buraco"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/buraco"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/buraco"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pedra/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pedra/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pedra/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/poker</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/21/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/poker"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/poker"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/poker"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/21/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/21/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/21/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/truco</loc>
+      <loc>https://www.vilaboard.com/en/jogos/21/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/truco"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/truco"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/truco"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/21/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/21/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/21/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/domino</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/paciencia/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/domino"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/domino"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/domino"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/paciencia/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/paciencia/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/paciencia/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/termo</loc>
+      <loc>https://www.vilaboard.com/en/jogos/paciencia/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/termo"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/termo"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/termo"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/paciencia/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/paciencia/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/paciencia/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/tetris</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/memoria-cartas/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/tetris"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/tetris"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/tetris"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria-cartas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria-cartas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria-cartas/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/merchant</loc>
+      <loc>https://www.vilaboard.com/en/jogos/memoria-cartas/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/merchant"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/merchant"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/merchant"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/memoria-cartas/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/memoria-cartas/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/memoria-cartas/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/space</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/buraco/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/space"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/space"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/space"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/buraco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/buraco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/buraco/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/snake</loc>
+      <loc>https://www.vilaboard.com/en/jogos/buraco/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/snake"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/snake"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/snake"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/buraco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/buraco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/buraco/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/pong</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/poker/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pong"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pong"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pong"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/poker/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/poker/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/poker/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/cube</loc>
+      <loc>https://www.vilaboard.com/en/jogos/poker/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/cube"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/cube"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/cube"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/poker/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/poker/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/poker/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/minado</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/truco/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/minado"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/minado"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/minado"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/truco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/truco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/truco/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/sudoku</loc>
+      <loc>https://www.vilaboard.com/en/jogos/truco/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/sudoku"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/sudoku"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/sudoku"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/truco/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/truco/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/truco/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/2048</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/domino/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/2048"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/2048"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/2048"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/domino/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/domino/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/domino/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/quebra</loc>
+      <loc>https://www.vilaboard.com/en/jogos/domino/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quebra"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quebra"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quebra"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/domino/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/domino/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/domino/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/quiz</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/termo/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quiz"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quiz"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quiz"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/termo/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/termo/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/termo/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/jogos/adivinha</loc>
+      <loc>https://www.vilaboard.com/en/jogos/termo/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/adivinha"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/adivinha"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/adivinha"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/termo/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/termo/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/termo/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/cpf-cnpj</loc>
+      <loc>https://www.vilaboard.com/pt/jogos/tetris/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/tetris/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/tetris/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/tetris/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/tetris/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/tetris/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/tetris/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/tetris/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/merchant/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/merchant/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/merchant/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/merchant/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/merchant/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/merchant/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/merchant/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/merchant/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/space/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/space/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/space/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/space/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/space/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/space/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/space/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/space/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/snake/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/snake/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/snake/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/snake/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/snake/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/snake/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/snake/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/snake/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/pong/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pong/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pong/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pong/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/pong/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/pong/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/pong/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/pong/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/cube/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/cube/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/cube/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/cube/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/cube/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/cube/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/cube/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/cube/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/minado/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/minado/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/minado/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/minado/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/minado/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/minado/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/minado/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/minado/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/sudoku/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/sudoku/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/sudoku/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/sudoku/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/sudoku/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/sudoku/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/sudoku/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/sudoku/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/2048/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/2048/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/2048/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/2048/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/2048/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/2048/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/2048/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/2048/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/quebra/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quebra/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quebra/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quebra/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/quebra/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quebra/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quebra/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quebra/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/quiz/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quiz/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quiz/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quiz/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/quiz/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/quiz/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/quiz/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/quiz/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/jogos/adivinha/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/adivinha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/adivinha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/adivinha/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/jogos/adivinha/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/jogos/adivinha/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/jogos/adivinha/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/jogos/adivinha/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/cpf-cnpj/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cpf-cnpj"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cpf-cnpj"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cpf-cnpj"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cpf-cnpj/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cpf-cnpj/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cpf-cnpj/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/conversor-bases</loc>
+      <loc>https://www.vilaboard.com/en/cpf-cnpj/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/cpf-cnpj/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/cpf-cnpj/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/cpf-cnpj/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/conversor-bases/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/conversor-bases"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/conversor-bases"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/conversor-bases"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/conversor-bases/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/conversor-bases/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/conversor-bases/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/leitor-texto</loc>
+      <loc>https://www.vilaboard.com/en/conversor-bases/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/leitor-texto"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/leitor-texto"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/leitor-texto"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/conversor-bases/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/conversor-bases/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/conversor-bases/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/comparador-texto</loc>
+      <loc>https://www.vilaboard.com/pt/leitor-texto/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/comparador-texto"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/comparador-texto"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/comparador-texto"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/leitor-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/leitor-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/leitor-texto/"/>
     </url>
 
     <url>
-      <loc>https://www.vilaboard.com/pt/about</loc>
+      <loc>https://www.vilaboard.com/en/leitor-texto/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/leitor-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/leitor-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/leitor-texto/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/comparador-texto/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/comparador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/comparador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/comparador-texto/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/comparador-texto/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/comparador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/comparador-texto/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/comparador-texto/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/pt/about/</loc>
       <lastmod>2026-08-08</lastmod>
       <changefreq>yearly</changefreq>
       <priority>0.5</priority>
-      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/about"/>
-      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/about"/>
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/about"/>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/about/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/about/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/about/"/>
+    </url>
+
+    <url>
+      <loc>https://www.vilaboard.com/en/about/</loc>
+      <lastmod>2026-08-08</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+      <xhtml:link rel="alternate" hreflang="pt" href="https://www.vilaboard.com/pt/about/"/>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.vilaboard.com/en/about/"/>
+      <xhtml:link rel="alternate" hreflang="x-default" href="https://www.vilaboard.com/pt/about/"/>
     </url>
 </urlset>
