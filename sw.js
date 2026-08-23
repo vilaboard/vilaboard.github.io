@@ -1,4 +1,4 @@
-const CACHE = 'vilaboard-v3'
+const CACHE = 'vilaboard-v4'
 const SHELL = [
   '/',
   '/pt/',
