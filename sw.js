@@ -1,7 +1,23 @@
-const CACHE = 'vilaboard-v2'
+const CACHE = 'vilaboard-v3'
+const SHELL = [
+  '/',
+  '/pt/',
+  '/en/',
+  '/manifest.webmanifest',
+  '/favicon.svg',
+  '/favicon.ico',
+  '/icon-192.png',
+  '/icon-512.png',
+  '/icon-192-maskable.png',
+  '/icon-512-maskable.png',
+]
 
-self.addEventListener('install', () => {
-  self.skipWaiting()
+self.addEventListener('install', (e) => {
+  e.waitUntil(
+    caches.open(CACHE)
+      .then((c) => Promise.allSettled(SHELL.map((u) => c.add(new Request(u, { cache: 'reload' })))))
+      .then(() => self.skipWaiting())
+  )
 })
 
 self.addEventListener('activate', (e) => {

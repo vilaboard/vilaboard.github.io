@@ -9,6 +9,12 @@
   "orientation": "any",
   "background_color": "#0f172a",
   "theme_color": "#0d9488",
+  "shortcuts": [
+    { "name": "Plano de Cortes", "short_name": "Cortes", "url": "/pt/plano-cortes", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Pomodoro Timer", "short_name": "Pomodoro", "url": "/pt/pomodoro", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "QR Code", "short_name": "QR Code", "url": "/pt/qr-code", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Calculadora IMC", "short_name": "IMC", "url": "/pt/imc", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ],
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
